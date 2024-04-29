@@ -1,5 +1,5 @@
 ---
-title: "MGT_6203_R_Code"
+title: "Hotel Cancellations Investigation"
 output: html_document
 date: "`r Sys.Date()`"
 ---
