@@ -1,20 +1,19 @@
 # Investigation-on-the-Probability-of-Hotel-Cancellations
 
-
 Group Project for the Spring 2024 semester at Georgia Institute of Technology
 
 Authors: Kristen Hart, Kelsey Ritchey, Xiaofan Jiao, Jeffrey Sonola
 
-Purpose: Predicting Hotel Booking Cancellations to Minimize Cancellations and Optimize Hotel Revenue Management
+The purpose of this data exploration is to determine if we can accurately predict the probability of hotel cancellation to help hotels make better informed business decisions. The insights gained from this investigation is in the folder named "Final Report".
 
-INSTRUCTIONS FOR R CODE:
+R Code:
 
-Install the following R packages into your R Environment:
+The R code contains the data cleaning process, data exploration, linear regression, modeling, and time series analysis on the dataset. 
+
+To run the code, install the following R packages into your R Environment:
 
 readr, ggplot2, corrplot, reshape2, dplyr, pscl, caret, pROC, tibble, lubridate, forecast, zoo, ROCR, car
 
-INSTRUCTIONS FOR SVM MODEL:
+Python Code:
 
-Ensure you have the latest version of Python installed on your machine
-
-Open in VSCode and run
+The support vector machine model (SVM) was ran in Python. This is the svm.ipynb file. Please ensure you have the latest version of Python before running this code.
